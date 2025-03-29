@@ -1,13 +1,56 @@
-<h1>Olá👋, eu sou Celso</h1>
-<p>Um estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes, com interesse em programação orientada a objetos, Linux e desenvolvimento backend. Atualmente estudando Java e MySQL</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/celso-borges-90523525b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=celsoB-dev&show_icons=true&locale=en" alt="celsoB-dev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celsoB-dev&" alt="celsoB-dev" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=celsoB-dev&show_icons=true&locale=en&layout=compact" alt="celsoB-dev" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=celsoB-dev" alt="celsoB-dev" /></a></p>
+<h1 align="left">Bem-vindo ao meu repositório!</h1>
+
+###
+
+<p align="left">Meu nome é Celso e sou um estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Programando desde agosto de 2024<br>📚 Eu estou estudando atualmente Java e MySQL<br>🎯 Conquistas: Criei cadastro bancário utilizando Java, um cadastro de funcionários em C e um um cadastro de clientes com VBA!<br>🎲 Curiosidade: gosto de testar diferentes distros de Linux, já instalei o Fedora e Arch</p>
+
+###
+
+<h2 align="left">Linguagens e ferramentas 🔧</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=celsoB-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celsoB-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<p align="left">"A simplicidade é a última sofisticação." – Leonardo da Vinci</p>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/celso-borges-90523525b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="borgesdesantanavicentecelso@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="celso.vicente@fatec.sp.gov.br" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
