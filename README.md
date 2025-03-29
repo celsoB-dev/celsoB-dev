@@ -1,42 +1,21 @@
-<h1 align="left">Bem-vindo ao meu repositório!</h1>
+# 💫 Sobre mim:
+Meu nome é Celso e sou um estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes<br><br>✨ Programando desde agosto de 2024<br>📚 Estou estudando atualmente Java e MySQL<br>🎯 Conquistas: criei cadastro bancário utilizando Java, um cadastro de funcionários em C e um um cadastro de clientes com VBA!<br>🎲 Curiosidade: gosto de testar diferentes distros de Linux, já instalei o Fedora e Arch
 
-###
 
-<p align="left">Meu nome é Celso e sou um estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi das Cruzes</p>
+## 🌐 Informações de contato:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/celso-borges-90523525b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:borgesdesantanavicentecelso@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 Status no GitHub:
+![](https://github-readme-stats.vercel.app/api?username=celsoB-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=celsoB-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=celsoB-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="left">Sobre mim</h2>
+### ✍️ Frases
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### 🔝 Repositórios mais contribuídos
+![](https://github-contributor-stats.vercel.app/api?username=celsoB-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left">✨ Programando desde agosto de 2024<br>📚 Eu estou estudando atualmente Java e MySQL<br>🎯 Conquistas: criei cadastro bancário utilizando Java, um cadastro de funcionários em C e um um cadastro de clientes com VBA!<br>🎲 Curiosidade: gosto de testar diferentes distros de Linux, já instalei o Fedora e Arch</p>
-
-###
-
-<h2 align="left">Linguagens e ferramentas 🔧</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celsoB-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celsoB-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left">"A simplicidade é a última sofisticação." – Leonardo da Vinci</p>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
