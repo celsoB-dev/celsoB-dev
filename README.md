@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde agosto de 2024<br>📚 Eu estou estudando atualmente Java e MySQL<br>🎯 Conquistas: Criei cadastro bancário utilizando Java, um cadastro de funcionários em C e um um cadastro de clientes com VBA!<br>🎲 Curiosidade: gosto de testar diferentes distros de Linux, já instalei o Fedora e Arch</p>
+<p align="left">✨ Programando desde agosto de 2024<br>📚 Eu estou estudando atualmente Java e MySQL<br>🎯 Conquistas: criei cadastro bancário utilizando Java, um cadastro de funcionários em C e um um cadastro de clientes com VBA!<br>🎲 Curiosidade: gosto de testar diferentes distros de Linux, já instalei o Fedora e Arch</p>
 
 ###
 
